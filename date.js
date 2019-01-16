@@ -8,3 +8,6 @@ function f1(){
 
 }
 var b =  10;
+
+var  c = 2541
+var l  =  213
